@@ -2,7 +2,6 @@ import React from "react";
 import Head from "next/head";
 import { useState } from "react";
 import styles from "./index.module.css";
-import { TbGift } from "react-icons/tb";
 import { FcIdea } from "react-icons/fc";
 
 export default function Home() {
